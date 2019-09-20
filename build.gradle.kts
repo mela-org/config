@@ -6,7 +6,7 @@ plugins {
   id("io.spring.dependency-management") version "1.0.7.RELEASE"
 }
 
-group = "com.github.stupremee"
+group = "io.github.mela"
 version = "1.0.0"
 
 subprojects {
